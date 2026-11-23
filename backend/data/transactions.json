@@ -1,14 +1,5 @@
 [
   {
-    "id": "1788220800001",
-    "type": "income",
-    "amount": 1200000,
-    "category": "Salary",
-    "description": "September salary",
-    "date": "2026-09-01",
-    "createdAt": "2026-09-01T08:00:00.000Z"
-  },
-  {
     "id": "1788220800002",
     "type": "expense",
     "amount": 350000,
@@ -88,15 +79,6 @@
     "description": "Monthly rent",
     "date": "2026-11-03",
     "createdAt": "2026-11-03T07:50:00.000Z"
-  },
-  {
-    "id": "1793404800011",
-    "type": "expense",
-    "amount": 15800,
-    "category": "Food",
-    "description": "Lunch at work",
-    "date": "2026-11-11",
-    "createdAt": "2026-11-11T12:30:00.000Z"
   },
   {
     "id": "1793404800012",

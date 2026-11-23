@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1788220800001",
+    "type": "income",
+    "amount": 1200000,
+    "category": "Salary",
+    "description": "September salary",
+    "date": "2026-09-01",
+    "createdAt": "2026-09-01T08:00:00.000Z"
+  },
+  {
+    "id": "1788220800002",
+    "type": "expense",
+    "amount": 350000,
+    "category": "Rent",
+    "description": "Monthly rent",
+    "date": "2026-09-03",
+    "createdAt": "2026-09-03T07:30:00.000Z"
+  },
+  {
+    "id": "1788220800003",
+    "type": "expense",
+    "amount": 22500,
+    "category": "Food",
+    "description": "Groceries at Kimironko market",
+    "date": "2026-09-14",
+    "createdAt": "2026-09-14T17:12:00.000Z"
+  },
+  {
+    "id": "1790812800004",
+    "type": "income",
+    "amount": 1200000,
+    "category": "Salary",
+    "description": "October salary",
+    "date": "2026-10-01",
+    "createdAt": "2026-10-01T08:00:00.000Z"
+  },
+  {
+    "id": "1790812800005",
+    "type": "expense",
+    "amount": 350000,
+    "category": "Rent",
+    "description": "Monthly rent",
+    "date": "2026-10-02",
+    "createdAt": "2026-10-02T07:45:00.000Z"
+  },
+  {
+    "id": "1790812800006",
+    "type": "expense",
+    "amount": 8000,
+    "category": "Transport",
+    "description": "Moto taxi to client meeting",
+    "date": "2026-10-08",
+    "createdAt": "2026-10-08T09:20:00.000Z"
+  },
+  {
+    "id": "1790812800007",
+    "type": "expense",
+    "amount": 45000,
+    "category": "Utilities",
+    "description": "Electricity and water",
+    "date": "2026-10-19",
+    "createdAt": "2026-10-19T11:05:00.000Z"
+  },
+  {
+    "id": "1790812800008",
+    "type": "income",
+    "amount": 120000,
+    "category": "Other",
+    "description": "Freelance design payment",
+    "date": "2026-10-25",
+    "createdAt": "2026-10-25T16:40:00.000Z"
+  },
+  {
+    "id": "1793404800009",
+    "type": "income",
+    "amount": 1200000,
+    "category": "Salary",
+    "description": "November salary",
+    "date": "2026-11-01",
+    "createdAt": "2026-11-01T08:00:00.000Z"
+  },
+  {
+    "id": "1793404800010",
+    "type": "expense",
+    "amount": 350000,
+    "category": "Rent",
+    "description": "Monthly rent",
+    "date": "2026-11-03",
+    "createdAt": "2026-11-03T07:50:00.000Z"
+  },
+  {
+    "id": "1793404800011",
+    "type": "expense",
+    "amount": 15800,
+    "category": "Food",
+    "description": "Lunch at work",
+    "date": "2026-11-11",
+    "createdAt": "2026-11-11T12:30:00.000Z"
+  },
+  {
+    "id": "1793404800012",
+    "type": "expense",
+    "amount": 27000,
+    "category": "Other",
+    "description": "Phone airtime and data",
+    "date": "2026-11-18",
+    "createdAt": "2026-11-18T10:15:00.000Z"
+  }
+]
